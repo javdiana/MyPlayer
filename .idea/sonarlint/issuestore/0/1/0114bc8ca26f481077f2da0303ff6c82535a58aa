@@ -1,0 +1,12 @@
+
+wsquid:S1450."TRemove the "mSong" field and declare it as a local variable in the relevant methods.(•ýšçüÿÿÿÿ8¤×Êò¸-
+nsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(Õ·ÙÆøÿÿÿÿ8üÑÖò¸-
+nsquid:S1301;"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8Ï®Çò¸-
+\"squid:SwitchLastCaseIsDefaultCheck;""Add a default case to this switch.(×“¾ñùÿÿÿÿ8Ï®Çò¸-
+~squid:S1450"aRemove the "mSongsRecyclerView" field and declare it as a local variable in the relevant methods.(¾™28ˆ…™ò¸-
+nsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(åýÞãøÿÿÿÿ8ª¯Óò¸-
+Psquid:S1135L"2Complete the task associated to this TODO comment.(›…¶¯8Ïò¸-
+Msquid:S1068U"*Remove this unused "mSongs" private field.(Ìþîüÿÿÿÿ8üÑÖò¸-
+Psquid:S1135P"2Complete the task associated to this TODO comment.(›…¶¯8Ïò¸-
+Esquid:S1185"(Remove this method to simply inherit it.(¥Ë©8˜í„ò¸-
+Usquid:S1135"2Complete the task associated to this TODO comment.(úïÜÓøÿÿÿÿ8¸öó¸-
